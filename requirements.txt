@@ -1,6 +1,6 @@
-nltk_data==3.8.1
+
 
 streamlit==0.84.2
-nltk==3.6.3
+nltk==3.8.1
 scikit-learn==0.24.2
 
