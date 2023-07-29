@@ -1,3 +1,4 @@
+nltk_data==3.6.3
 
 streamlit==0.84.2
 nltk==3.6.3
