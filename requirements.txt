@@ -1,0 +1,3 @@
+python-version==0.0.2
+streamlit==0.84.2
+nltk==3.6.3
